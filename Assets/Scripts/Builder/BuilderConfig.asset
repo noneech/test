@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c06d798d55466c4f841b31a03cb7a9f, type: 3}
   m_Name: BuilderConfig
   m_EditorClassIdentifier: Assembly-CSharp::BuilderConfig
-  BuildDistance: 2
+  BuildDistance: 100
